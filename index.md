@@ -1,14 +1,14 @@
-- (Alekhine Defense)[alekhinedefense.md]
+- [Alekhine Defense](alekhinedefense.md)
     - https://www.thechesswebsite.com/alekhine-defense
-- (Apocalypse Attack)[apocalypseattack.md]
+- [Apocalypse Attack](apocalypseattack.md)
     - https://www.thechesswebsite.com/apocalypse-attack
-- (Baltic Defense)[balticdefense.md]
+- [Baltic Defense](balticdefense.md)
     - https://www.thechesswebsite.com/baltic-defense
-- (Belgrade Gambit)[belgradegambit.md]
+- [Belgrade Gambit](belgradegambit.md)
     - https://www.thechesswebsite.com/belgrade-gambit
-- (Benoni Defense)[benonidefense.md]
+- [Benoni Defense](benonidefense.md)
     - https://www.thechesswebsite.com/benoni-defense
-- (Black Knights Tango)[blackknightstango.md]
+- [Black Knights Tango](blackknightstango.md)
     - https://www.thechesswebsite.com/black-knights-tango
-- (Bogo Indian Defense)[bogoindiandefense.md]
+- [Bogo Indian Defense](bogoindiandefense.md)
     - https://www.thechesswebsite.com/bogo-indian-defense
