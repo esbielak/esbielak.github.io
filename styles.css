@@ -1790,6 +1790,12 @@
     }
   }
 }
+table, th, td {
+  border: 1px solid;
+}
+ol {
+  list-style-type: upper-roman;
+}
 @property --tw-translate-x {
   syntax: "*";
   inherits: false;
