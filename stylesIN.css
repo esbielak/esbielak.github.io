@@ -1,2 +1,9 @@
 @import "tailwindcss";
 
+table, th, td {
+    border: 1px solid;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
