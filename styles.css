@@ -433,8 +433,8 @@
   .aspect-square {
     aspect-ratio: 1 / 1;
   }
-  .h-full {
-    height: 100%;
+  .h-3 {
+    height: calc(var(--spacing) * 3);
   }
   .h-screen {
     height: 100vh;
@@ -451,8 +451,8 @@
   .w-1\/2 {
     width: calc(1/2 * 100%);
   }
-  .w-full {
-    width: 100%;
+  .w-3 {
+    width: calc(var(--spacing) * 3);
   }
   .w-screen {
     width: 100vw;
@@ -1547,9 +1547,6 @@
   }
   .scheme-only-light {
     color-scheme: only light;
-  }
-  .opacity-75 {
-    opacity: 75%;
   }
   .mix-blend-plus-darker {
     mix-blend-mode: plus-darker;
