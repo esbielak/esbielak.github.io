@@ -1,9 +1,12 @@
 @import "tailwindcss";
 
-table, th, td {
+table, th, tr {
     border: 1px solid;
 }
+a {
+    @apply underline text-red-600 hover:text-blue-800;
+}
 
-ol {
+ol, li {
     list-style-type: upper-roman;
 }
